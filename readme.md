@@ -41,9 +41,9 @@ https://oss.console.aliyun.com/bucket
 ![img.png](.README/img.png)
 点击创建好的Bucket即可获取到对应的endpoint，即对应上面的-endpoint的值
 ![img.png](.README/img2.png)
-然后再去 `https://ram.console.aliyun.com/users` 拿到。
+然后再去 `https://ram.console.aliyun.com/users` 拿到OSS ACCESS KEY和OSS ACCESS KEY SECRET。
 
-然后就可以使用我们的工具，先在客户机上起一个转发器。使用命令OSS ACCESS KEY和OSS ACCESS KEY SECRET，记得一定要把权限搞到只能操控该oss
+然后就可以使用我们的工具，先在客户机上起一个转发器。记得一定要把权限搞到只能操控该oss
 
 ```
 # 在要上线机器上运行下面程序后再运行马：
